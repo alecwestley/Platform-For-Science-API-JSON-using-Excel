@@ -1,4 +1,4 @@
-# Excel-VBA-JSON
+# Platform For Science API JSON using Excel
 VBA tempalate for connecting Excel to JSON Web services
 
 20191218
